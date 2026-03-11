@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/app_icons/icon_256.png"  alt="csvTrim Logo"/>
+  <img src="logo.png"  alt="csvTrim Logo"/>
   <h1 align="center">homebrew-csvtrim</h1>
 </div>
 
