@@ -9,6 +9,7 @@
   <img alt="GitHub Actions Homebrew Status" src="https://img.shields.io/github/actions/workflow/status/KimTholstorf/csvTrim/homebrew-publish.yml?label=brew">
 </div>
 
+
 Homebrew tap for [csvTrim](https://github.com/KimTholstorf/csvTrim) — a CLI tool to filter and trim large CSV files by column values.
 
 ## Install
