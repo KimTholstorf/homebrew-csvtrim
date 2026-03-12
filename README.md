@@ -8,7 +8,9 @@
   <img alt="GitHub Actions PyPi Status" src="https://img.shields.io/github/actions/workflow/status/KimTholstorf/csvTrim/pypi-publish.yml?label=pypi">
   <img alt="GitHub Actions Homebrew Status" src="https://img.shields.io/badge/brew-online-brightgreen">
 </div>
+
 <br>
+    
 Homebrew tap for [csvTrim](https://github.com/KimTholstorf/csvTrim) — a CLI tool to filter and trim large CSV files by column values.
 
 ## Install
