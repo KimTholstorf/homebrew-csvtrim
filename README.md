@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="logo.png"  alt="csvTrim Logo"/>
+  <img src="logo_gh.png"  alt="csvTrim Logo"/>
   <h1 align="center">homebrew-csvtrim</h1>
 </div>
 
 <div align="center">
   <img alt="GitHub Actions Docker Status" src="https://img.shields.io/github/actions/workflow/status/KimTholstorf/csvTrim/docker-publish.yml?label=docker">
   <img alt="GitHub Actions PyPi Status" src="https://img.shields.io/github/actions/workflow/status/KimTholstorf/csvTrim/pypi-publish.yml?label=pypi">
-  <img alt="GitHub Actions Homebrew Status" src="https://img.shields.io/github/actions/workflow/status/KimTholstorf/csvTrim/homebrew-publish.yml?label=brew">
+  <img alt="GitHub Actions Homebrew Status" src="https://img.shields.io/badge/brew-online-brightgreen">
 </div>
-
-
+<br>
 Homebrew tap for [csvTrim](https://github.com/KimTholstorf/csvTrim) — a CLI tool to filter and trim large CSV files by column values.
 
 ## Install
