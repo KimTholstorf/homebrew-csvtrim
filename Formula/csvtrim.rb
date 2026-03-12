@@ -1,8 +1,8 @@
 class Csvtrim < Formula
   desc "Filter and trim large CSV files by column values"
   homepage "https://github.com/KimTholstorf/csvTrim"
-  url "https://files.pythonhosted.org/packages/source/c/csvtrim/csvtrim-1.0.1.tar.gz"
-  sha256 "27f2c8468df61549ad44968b339ded7d2aa6c2e5b15adcd34ca43c7213afc0c4"
+  url "https://files.pythonhosted.org/packages/1b/5d/84c656a64a7fbc346a50c38c858e73722cbed96fe60ca1908cc07b5f51e9/csvtrim-1.0.3.tar.gz"
+  sha256 "e1ef226976d1a28411047b9d843c0f89adfc6b1f6b2d752bd22bc14f62e05d36"
   license "MIT"
 
   depends_on "python3"
