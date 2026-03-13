@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo_gh.png"  alt="csvTrim Logo"/>
+  <img src="logo_gh_beer.png"  alt="csvTrim Logo"/>
   <h1 align="center">homebrew-csvtrim</h1>
 </div>
 
